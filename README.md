@@ -1,2 +1,4 @@
 # Appendix
-Appendix for Pre-print Papers
+
+Appendix for Pre-print and Published Papers
+
